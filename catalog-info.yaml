@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: RR2
+  description: сервис по приему платежей
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guests
